@@ -321,7 +321,7 @@ hr {
     text-align: center;
     letter-spacing:30;
 }
-.icon-facebook-1:before{
+.icon-facebook:before{
     content: "\e90b";
     color: #8695a8;
 }
@@ -333,11 +333,11 @@ hr {
     content: "\e90d";
     color: #8695a8;
   }
-  .icon-twitter-1:before {
+  .icon-twitter:before {
     content: "\e90e";
     color: #8695a8;
   }
-  .icon-YouTube-1:before {
+  .icon-YouTube:before {
     content: "\e90f";
     color: #8695a8;
   }
